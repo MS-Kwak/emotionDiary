@@ -1,7 +1,7 @@
 // import { useSearchParams } from 'react-router-dom';
 import Header from '../components/Header';
 import Button from '../components/Button';
-import DiaryList from '../components/Diarylist';
+import DiaryList from '../components/DiaryList';
 import { useContext, useState } from 'react';
 import { DiaryStateContext } from '../App';
 import usePageTitle from '../hooks/usePageTitle';
